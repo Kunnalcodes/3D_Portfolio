@@ -1,0 +1,3 @@
+- [x] Update import in src/components/Works.jsx from "react-tilt" to "react-parallax-tilt"
+- [ ] Update import in src/components/About.jsx from "react-tilt" to "react-parallax-tilt"
+- [x] Verify the changes work correctly
